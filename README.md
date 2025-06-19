@@ -1,2 +1,2 @@
 # tech-repair-portfolio
-Here is documentation of some of the electroics repair projects I've taken on.
+Here’s a collection of electronics repair projects I’ve worked on to build my skills in troubleshooting and technical support.
